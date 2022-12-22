@@ -18,7 +18,7 @@ function Blogs() {
             How tea retail chain Chaayos managed to keep its brew intact by
             surviving chaotic months. All it banked on was safe-tea.
           </p>
-          <a href='/' className='underline'>
+          <a href='#' className='underline'>
             Read More
           </a>
         </div>
@@ -36,7 +36,7 @@ function Blogs() {
             The tea cafe chain further targets to have 100 stores by the end of
             the current fiscal year.
           </p>
-          <a href='/' className='underline'>
+          <a href='#' className='underline'>
             Read More
           </a>
         </div>

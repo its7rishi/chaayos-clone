@@ -10,7 +10,7 @@ function Bestsellers() {
     <section className='p-[40px]'>
       <div className='flex justify-between items-center'>
         <h1 className='text-3xl'>Bestsellers</h1>
-        <a href='/' className='underline'>
+        <a href='#' className='underline'>
           View all
         </a>
       </div>

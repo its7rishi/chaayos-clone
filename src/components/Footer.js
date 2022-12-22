@@ -11,16 +11,16 @@ function Footer() {
         <div className='flex flex-col items-start justify-start'>
           <div className='mb-3 text-sm'>Site menu</div>
           <div className='flex flex-col items-start justify-start text-sm max-w-[210px]'>
-            <a href='/'>Our Story</a>
-            <a href='/'>Search</a>
-            <a href='/'>Terms of Service - Chaayos</a>
-            <a href='/'>Refund Policy</a>
-            <a href='/'>Privacy Policy</a>
-            <a href='/'>Track Your Order</a>
-            <a href='/'>Safetea</a>
-            <a href='/'>Download App</a>
-            <a href='/'>Terms of Service - Chaayos Bazaar</a>
-            <a href='/'>My Account</a>
+            <a href='#'>Our Story</a>
+            <a href='#'>Search</a>
+            <a href='#'>Terms of Service - Chaayos</a>
+            <a href='#'>Refund Policy</a>
+            <a href='#'>Privacy Policy</a>
+            <a href='#'>Track Your Order</a>
+            <a href='#'>Safetea</a>
+            <a href='#'>Download App</a>
+            <a href='#'>Terms of Service - Chaayos Bazaar</a>
+            <a href='#'>My Account</a>
           </div>
         </div>
         <div className='flex flex-col justify-start items-start space-y-4 max-w-[210px]'>
@@ -159,7 +159,7 @@ function Footer() {
         <span>
           &copy; 2022 Chaayos All rights reserved. Cloned by Saptarshi majumdar
         </span>
-        <a href='/' className='underline'>
+        <a href='#' className='underline'>
           Cloned by Saptarshi
         </a>
       </div>

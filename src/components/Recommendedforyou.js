@@ -11,7 +11,7 @@ function Recommendedforyou() {
     <section className='p-[40px]'>
       <div className='flex justify-between items-center'>
         <h1 className='text-3xl'>Recommended For You</h1>
-        <a href='#/' className='underline'>
+        <a href='#' className='underline'>
           View All
         </a>
       </div>
