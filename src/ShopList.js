@@ -25,7 +25,6 @@ export const ShopList = [
   },
   {
     id: 5,
-    id: 5,
     img: 'https://cdn.shopify.com/s/files/1/0537/1104/4798/collections/midnight-lavendar-bath-salts-0418_vert_720x.jpg?v=1649331890',
     title: 'HERBAL TEA',
     text: 'Flavourful',
