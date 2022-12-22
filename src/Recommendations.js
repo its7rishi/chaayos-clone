@@ -1,0 +1,53 @@
+const Recommendations = [
+  {
+    id: 1,
+    img: 'https://cdn.shopify.com/s/files/1/0537/1104/4798/products/front-image_cardamom_8df63403-fadf-4e83-9619-f736676b5605_280x.jpg?v=1643034122',
+    selling_price: 469,
+    mrp: 599,
+    save: 'Save 22%',
+    star: 5,
+    reviews: '9 reviews',
+  },
+  {
+    id: 2,
+    img: 'https://cdn.shopify.com/s/files/1/0537/1104/4798/products/masala-tea-bags_280x.jpg?v=1654611850',
+    title: 'Masala Chai Tea Bags',
+    selling_price: 199,
+    mrp: 0,
+    save: '',
+    star: 5,
+    reviews: '1 review',
+  },
+  {
+    id: 3,
+    img: 'https://cdn.shopify.com/s/files/1/0537/1104/4798/products/1_14_280x.jpg?v=1623221706',
+    title: 'Methi Matthi Snacks',
+    selling_price: 119,
+    mrp: 0,
+    save: '',
+    star: 5,
+    reviews: '8 reviews',
+  },
+  {
+    id: 4,
+    img: 'https://cdn.shopify.com/s/files/1/0537/1104/4798/products/2_377bb44d-8345-46d0-9add-4fa42adfca6d_280x.jpg?v=1643089330',
+    title: '5 Spice Chai Masala',
+    selling_price: 229,
+    mrp: 269,
+    save: 'Save 15%',
+    star: 5,
+    reviews: '1 review',
+  },
+  {
+    id: 5,
+    img: 'https://cdn.shopify.com/s/files/1/0537/1104/4798/products/7_8_280x.jpg?v=1634411971',
+    title: 'Cardamom Seed Powder (50g)',
+    selling_price: 349,
+    mrp: 470,
+    save: 'Save 27%',
+    star: 5,
+    reviews: '5 reviews',
+  },
+]
+
+export default Recommendations

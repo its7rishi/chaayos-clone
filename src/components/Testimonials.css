@@ -1,0 +1,7 @@
+.swiper-slide-active {
+  transform: scale(110);
+}
+
+.swiper-pagination-bullet-active {
+  background: #000000 !important;
+}
